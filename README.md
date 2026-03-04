@@ -36,8 +36,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MikalJohnson&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MikalJohnson&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikalJohnson&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikalJohnson&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?user=MikalJohnson&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MikalJohnson&theme=tokyo-night"/>
 </p>
 
 ---
