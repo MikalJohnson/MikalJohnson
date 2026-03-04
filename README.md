@@ -1,16 +1,100 @@
-## Hi there 👋
+<p align="center">
+  <img width="100%" height="600" alt="Banner" src="https://github.com/user-attachments/assets/5ea0267b-e01b-42d3-9504-034782d5beb7" />
+</p>
 
-<!--
-**MikalJohnson/MikalJohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=800&lines=Future+Software+Engineer;ASP.NET+Developer;Full+Stack+Builder;Building+Projects+Daily;Welcome+to+TheMikalWay" />
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">Hey 👋 I'm Mikal</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+💻 Software Developer in Progress | ☕ Coffee + Code | 🚀 Building Daily
+</p>
+
+---
+
+## 🚀 About Me
+
+🎓 Computer Science Student  
+💻 Focused on C# / .NET Development  
+⚡ Learning TypeScript and Full Stack Development  
+📈 Working toward my first Software Engineering Internship  
+🌎 Based in Seattle, Washington  
+🚀 Building projects and improving every day  
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikaljohnson&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikalJohnson&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MikalJohnson&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?user=MikalJohnson&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🚧 Current Projects
+
+🔹 ASP.NET Web Applications  
+🔹 Console Tools in C#  
+🔹 Full Stack Web Development Practice  
+🔹 Developer Portfolio Projects  
+
+---
+
+## 🧠 Developer Philosophy
+
+> Discipline beats motivation. Build something every day.
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MikalJohnson&color=blue&style=for-the-badge" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+GitHub  
+https://github.com/YOURUSERNAME
+
+---
+
+⭐️ Welcome to TheMikalWay — where we build every day.
+---
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/YOURUSERNAME
+
+---
+
+⭐️ *Building the future one commit at a time.*
