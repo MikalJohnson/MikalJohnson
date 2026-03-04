@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" height="600" alt="Banner" src="https://github.com/user-attachments/assets/5ea0267b-e01b-42d3-9504-034782d5beb7" />
+  <img width="100%" height="550" alt="Banner" src="https://github.com/user-attachments/assets/5ea0267b-e01b-42d3-9504-034782d5beb7" />
 </p>
 
 <p align="center">
@@ -36,8 +36,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikalJohnson&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikalJohnson&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MikalJohnson&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MikalJohnson&theme=tokyonight" />
 </p>
 
 ---
@@ -83,17 +83,7 @@
 
 ## 🤝 Connect With Me
 
-GitHub  
-https://github.com/YOURUSERNAME
-
----
-
-⭐️ Welcome to TheMikalWay — where we build every day.
----
-
-## 🤝 Connect With Me
-
-- GitHub: https://github.com/YOURUSERNAME
+- GitHub: https://github.com/MikalJohnson
 
 ---
 
